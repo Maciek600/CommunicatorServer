@@ -9,4 +9,5 @@ This project uses:
 - REST API architecture to integrate with a React Native mobile app
 - Custom JWT authentication for user verification
 - Documentation in the form of Javadoc + UML
+  
 Server side was written together with https://github.com/radekgrzywacz
